@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Areseniy</h1>
+<h1 align="center">Hi 👋, I'm Arseniy</h1>
 <h3 align="center">A passionate Python/Flutter developer. I learning Flutter, Python and 1C, but wanna solve more complex tasks</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eloweld&label=Profile%20views&color=0e75b6&style=flat" alt="eloweld" /> </p>
